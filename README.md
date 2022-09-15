@@ -19,6 +19,9 @@
 17.Merge sort
 18.Quick sort
 19.Heap sort
+20.AVL tree
+21.BFS
+22.DFS
 23.Dijkstra's algorithm
 24.Prim's algorithm
 25.Kruskal's algorithm.
